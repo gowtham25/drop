@@ -123,3 +123,21 @@ input[type=checkbox],input[type=radio] {
 label{
 	cursor: pointer;
 }
+.show-data{
+	width: 100px;
+    height: 32px;
+    position: absolute;
+    left: 205px;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.display-data{
+	display: inline;
+    position: absolute;
+    left: 314px;
+    margin: 0px;	
+}
+.display-data span{
+	color:blue;
+}
